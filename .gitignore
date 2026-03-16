@@ -11,3 +11,5 @@ obj/
 *.nupkg
 project.lock.json
 packages/
+
+*.claude
